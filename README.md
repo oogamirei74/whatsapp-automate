@@ -66,9 +66,9 @@ Your Excel file **must follow this exact format**:
 
 | Name | Number |
 |------|--------|
-| Eshat | 8801609159939 |
-| Minahj | 8801830691808 |
-| Suchi | 8801302764414 |
+| John Doe | 8801700000001 |
+| Jane Smith | 8801800000002 |
+| Alice Rahman | 8801900000003 |
 
 ### Rules for the Excel file:
 - The file must be named `contacts.xlsx`
