@@ -85,7 +85,7 @@ Your Excel file **must follow this exact format**:
 Open `basic_auto.py` and find this line:
 
 ```python
-message = "Assalamu Alaikum. I love you."
+message = "Assalamu Alaikum. This is an automated message."
 ```
 
 Replace it with any message you want to send. For example:
